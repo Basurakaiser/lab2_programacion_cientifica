@@ -1,0 +1,2 @@
+# lab2_programacion_cientifica
+programación científica
